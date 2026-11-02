@@ -1,5 +1,6 @@
 # Smart Academic Mentor 🎓
 [🌐 View Live Dashboard](https://ishaabhargava.github.io/Smart-Academic-Mentor/report/project_report_aiml.html)
+
 An intelligent academic performance analysis system built using Python and Machine Learning. The project analyses student data, identifies performance patterns, groups students based on academic characteristics, and evaluates machine learning models to predict academic outcomes.
 
 ## Project Overview
